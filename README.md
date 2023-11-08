@@ -55,9 +55,3 @@ Please see the [LICENSE](https://github.com/oasis-tcs/lvcsp/blob/master/LICENSE.
 ## Contact
 
 Please send questions or comments about [OASIS TC GitHub repositories](https://www.oasis-open.org/resources/tcadmin/github-repositories-for-oasis-tc-members-chartered-work) to the [OASIS TC Administrator](mailto:tc-admin@oasis-open.org).  For questions about content in this repository, please contact the TC Chair or Co-Chairs as listed on the LVCSP TC's [home page](https://www.oasis-open.org/committees/lvcsp/).
-
-
-
-
-# lvcsp
-OASIS LVCSP TC:  The purpose of this repository is to support version control for Work Product artifacts developed by members of the OASIS LVCSP TC, including prose specification editing and secondary artifacts like meeting minutes, productivity code, etc.
